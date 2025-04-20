@@ -84,8 +84,9 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
 |      Icon ID       |                         Icon                          |
-| :----------------: | :---------------------------------------------------: |
+|:------------------:|:-----------------------------------------------------:|
 |     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
+|     `accurev`      |      <img src="./icons/AccuRev.svg" width="48">       |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
 |      `adonis`      |       <img src="./icons/Adonis.svg" width="48">       |
